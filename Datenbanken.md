@@ -1,0 +1,5 @@
+[[DBMS]]
+[[Entity-Relationship-Modell]]
+[[Logisches Modell]]
+[[MySQL]]
+[[Normalformen (Datenbanken)]]

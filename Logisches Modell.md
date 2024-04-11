@@ -1,0 +1,1 @@
+Das Logische Modell(auch Relationenmodell genannt) ist einer der Schritte der [[Datenbankentwicklung]]. Im logischen Modell werden die Entitätstypen
