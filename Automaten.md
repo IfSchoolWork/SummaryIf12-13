@@ -3,3 +3,5 @@ Automaten sind Maschinen die sich immer in einem bestimmten Zustand befinden und
 Für ihre visuelle Darstellung werden bestimmte Symbole verwendet![[Automaten_Symbole.svg]]
 
 ![[007_Automat.svg]]
+
+Neben ihrer visuellen Darstellung kommen Automaten [formal beschrieben](<Formale Beschreibung von Automaten>) werden
