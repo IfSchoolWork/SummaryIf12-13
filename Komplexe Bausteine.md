@@ -6,3 +6,6 @@ Komplexe Bausteine sind Bausteine, welche aus mehreren [Gattern](Gatter) bestehe
 
 [[Halbaddierer]]
 [[Volladdierer]]
+
+[[Multiplexer]]
+[[Demultiplexer]]
